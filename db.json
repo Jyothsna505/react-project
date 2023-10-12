@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "light green lays",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": " light green kurkure ",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Tomato red lays",
+      "completed": false,
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
